@@ -6,11 +6,11 @@ Dataset is divided into train-set and test-set as follows:
 **Train-set:** \
 Total Videos = 80  (40 in each class) \
 Total Classes = 2 \
-          robbery (labeled as class '1') \
-          norobbery (labelled as class '2')
+       &nbsp   robbery (labeled as class '1') \
+       &nbsp  norobbery (labelled as class '2')
 
 **Test-set:** \
 Total Videos = 44 (22 in each class) \
 Total Classes = 2 \
-          robbery (labeled as class '1') \
-          norobbery (labelled as class '2')
+        &nbsp  robbery (labeled as class '1') \
+        &nbsp  norobbery (labelled as class '2')
