@@ -1,6 +1,0 @@
-test_robbery003001.mp4  2
-test_robbery003002.mp4  1
-test_robbery003003.mp4  1
-test_robbery003004.mp4  1
-test_robbery003005.mp4  1
-test_robbery003006.mp4  1
